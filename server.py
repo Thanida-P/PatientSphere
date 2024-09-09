@@ -58,7 +58,7 @@ TEMP_OTHERS = []
 
 configuration = sib_api_v3_sdk.Configuration()
 
-configuration.api_key['api-key'] = "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"
+configuration.api_key['api-key'] = "xxx"
 
 api_instance = sib_api_v3_sdk.TransactionalEmailsApi(sib_api_v3_sdk.ApiClient(configuration))
 
