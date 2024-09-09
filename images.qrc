@@ -1,0 +1,42 @@
+<RCC>
+  <qresource>
+    <file>static/bill_black.png</file>
+    <file>static/bill_white.png</file>
+    <file>static/lab_white.png</file>
+    <file>static/report_black.png</file>
+    <file>static/log_out.png</file>
+    <file>static/19.png</file>
+    <file>static/Appointment_blue.png</file>
+    <file>static/eye.png</file>
+    <file>static/Appointment_blue1.png</file>
+    <file>static/Appointment_white.png</file>
+    <file>static/Booking_blue.png</file>
+    <file>static/Booking_white.png</file>
+    <file>static/icons8-blood-50.png</file>
+    <file>static/icons8-home-48.png</file>
+    <file>static/icons8-hospital-64.png</file>
+    <file>static/icons8-list-64.png</file>
+    <file>static/icons8-schedule-100.png</file>
+    <file>static/icons8-search-24.png</file>
+    <file>static/icons8-user-48.png</file>
+    <file>static/Login.png</file>
+    <file>static/med_record_white.png</file>
+    <file>static/medical-team.png</file>
+    <file>static/Medication_blue (2).png</file>
+    <file>static/Medication_blue.png</file>
+    <file>static/Medication_white.png</file>
+    <file>static/Patient_blue.png</file>
+    <file>static/Patient_white.png</file>
+    <file>static/Payment_blue.png</file>
+    <file>static/Payment_blue1.png</file>
+    <file>static/Payment_white.png</file>
+    <file>static/Payment_white_new.png</file>
+    <file>static/Record_blue.png</file>
+    <file>static/Record_white.png</file>
+    <file>static/Report_blue.png</file>
+    <file>static/Report_white.png</file>
+    <file>static/Schedule_blue.png</file>
+    <file>static/Schedule_white.png</file>
+    <file>static/White_Report.png</file>
+  </qresource>
+</RCC>
